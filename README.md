@@ -25,8 +25,7 @@ I am a passionate developer focused on building automated systems, AI tools, and
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
-
-### 📊 My GitHub Stats
+ 
 
 ### 📊 My GitHub Stats
 
