@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**svtkavi25-sys/svtkavi25-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
- 
- # Hi, I'm S.V. Kavi 👋 
+Hi, I'm S.V. Kavi 👋 
 
 ### 🚀 Aspiring Full-Stack Developer & AI Enthusiast
 I am a passionate developer focused on building automated solutions and modern web applications. Currently, I am deep-diving into the world of **Django** and **React** to build full-scale projects.
@@ -40,14 +34,4 @@ I am a passionate developer focused on building automated solutions and modern w
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
