@@ -1,12 +1,12 @@
-Hi, I'm S.V. Kavi 👋 
+# Hi, I'm S.V. Kavi 👋 
 
-### 🚀 Aspiring Full-Stack Developer & AI Enthusiast
-I am a passionate developer focused on building automated solutions and modern web applications. Currently, I am deep-diving into the world of **Django** and **React** to build full-scale projects.
+### 🚀 Full-Stack Developer | Building Multiple Solutions
+I am a passionate developer focused on building automated systems, AI tools, and modern web applications. I enjoy experimenting with different technologies and solving real-world problems through code.
 
-- 🔭 **Current Project:** Working on **[SpaceIQ](https://github.com/svtkavi25-sys/spaceiq)** — an AI-driven Occupancy Detection System.
-- 🌱 **Learning Journey:** Currently mastering **JavaScript (ES6+)**, **React.js**, and **Django REST Framework**.
+- 🔭 **Current Activity:** Developing and maintaining **various projects** involving AI, Web Automation, and Data Management.
+- 🌱 **Learning Journey:** Currently mastering **JavaScript (ES6+)**, **React.js**, and **Django** to build scalable full-stack apps.
 - 🏛️ **Academics:** Strengthening my logic with **C++** and **Java**.
-- 💬 **Ask me about:** Python automation or my experience with OpenCV.
+- 💬 **Ask me about:** Python automation, OpenCV, or my latest web experiments.
 
 ---
 
@@ -27,8 +27,13 @@ I am a passionate developer focused on building automated solutions and modern w
 ---
 
 ### 📊 My GitHub Stats
-![Kavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=svtkavi25-sys&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svtkavi25-sys&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=svtkavi25-sys&show_icons=true&theme=radical" alt="Kavi's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svtkavi25-sys&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+ 
 
 ---
 
