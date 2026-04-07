@@ -28,10 +28,10 @@ I am a passionate developer focused on building automated systems, AI tools, and
 
 ### 📊 My GitHub Stats
 
+### 📊 My GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=svtkavi25-sys&show_icons=true&theme=tokyonight" width="400" alt="Kavi's GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svtkavi25-sys&layout=compact&theme=tokyonight" width="400" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svtkavi25-sys&theme=tokyonight" alt="Kavi's GitHub Stats" />
 </p>
 
  
