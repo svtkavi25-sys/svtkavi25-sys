@@ -1,6 +1,4 @@
 # Hi, I'm S.V. Kavi 👋 
-# Hi 👋 I'm S.V. Kavi
-
 ## 🚀 About Me
 - AI & ML Developer
 - Python Full Stack Learner
