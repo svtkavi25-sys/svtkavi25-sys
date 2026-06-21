@@ -1,5 +1,21 @@
 # Hi, I'm S.V. Kavi 👋 
+# Hi 👋 I'm S.V. Kavi
 
+## 🚀 About Me
+- AI & ML Developer
+- Python Full Stack Learner
+- Reinforcement Learning Enthusiast
+- System Design Learner
+
+## 🛠 Technologies
+Python | TensorFlow | OpenCV | Flask | Django | MySQL
+
+## 📚 Currently Learning
+- Deep Learning
+- Reinforcement Learning
+- AI System Design
+- Full Stack AI Applications
+  
 ### 🚀 Full-Stack Developer | Building Multiple Solutions
 I am a passionate developer focused on building automated systems, AI tools, and modern web applications. I enjoy experimenting with different technologies and solving real-world problems through code.
 
